@@ -1,8 +1,7 @@
 <div align="center">
   <h1>vCard Management System in PHP MySQL – Digital Business Card &amp; Digital Business Profile SaaS Script</h1>
   <p><strong>Launch Your Own Self-Hosted Digital Business Card Maker, Online Business Profile Directory &amp; QR Code Standee Platform in PHP &amp; MySQL</strong></p>
-  <img width="1670" height="941" alt="vcard management system in PHP" src="https://github.com/user-attachments/assets/eb151137-e9e4-41b6-be27-91de10bdf941" />
-
+  
   <p>
     <a href="https://technosmarter.com/item/vcard-management-system-in-php"><strong>📥 Download Complete Source Code</strong></a> &nbsp;|&nbsp; 
     <a href="https://technosmarter.com/item/vcard-management-system-in-php"><strong>🌐 Live Demo Preview</strong></a> &nbsp;|&nbsp; 
@@ -12,6 +11,8 @@
 </div>
 
 <hr>
+<img width="1670" height="941" alt="vcard management system in PHP" src="https://github.com/user-attachments/assets/eb151137-e9e4-41b6-be27-91de10bdf941" />
+
 
 <h2>📌 Overview: Why Use This vCard Management System?</h2>
 <p>A <strong>vCard Management System</strong> is a complete web application used for creating and managing smart <strong>digital business cards</strong> and interactive <strong>digital business profiles</strong>. If you want to start your own SaaS (Software as a Service) business in the digital marketing or networking space, this self-hosted PHP and MySQL script gives you a ready-to-launch platform where clients can register, subscribe, and design their own virtual visiting cards within minutes.</p>
