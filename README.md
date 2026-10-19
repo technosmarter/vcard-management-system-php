@@ -44,52 +44,25 @@
 <table width="100%" cellspacing="0" cellpadding="15" style="border-collapse: collapse; border: none;">
   <!-- ROW 1 -->
  <tr>
-  <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-
-<div style="width: 100%; max-width: 246px; height: 300px; overflow-y: auto; overflow-x: hidden; border: 3px solid #334155; border-radius: 10px; box-sizing: border-box;">
-  <img
-    src="https://github.com/user-attachments/assets/f6b2b9b9-db27-45ec-b5d0-b9f21b37a9ed"
-    alt="Corporate Clean Digital Business Card Theme"
-    style="display: block; width: 100%; height: auto; border: none; border-radius: 0;"
-  >
-</div>
-
-<h3 style="color: #f8fafc; margin: 8px 0 4px 0;">1. Corporate Clean</h3>
-
-<p style="color: #94a3b8; font-size: 14px; margin: 0;">
-  Designed for standard corporate employees, managers, and business executives.
-</p>
-
-
+  <td width="50%" align="center" valign="top">
+    <img
+      src="https://github.com/user-attachments/assets/f6b2b9b9-db27-45ec-b5d0-b9f21b37a9ed"
+      alt="Corporate Clean Digital Business Card Theme"
+      width="240"
+    >
+    <h3>1. Corporate Clean</h3>
+    <p>Designed for standard corporate employees, managers, and business executives.</p>
   </td>
 
-  <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-
-
-<div style="width: 100%; max-width: 246px; height: 300px; overflow-y: auto; overflow-x: hidden; border: 3px solid #334155; border-radius: 10px; box-sizing: border-box;">
-  <img
-    src="screenshots/theme-2-medical-health.png"
-    alt="Medical and Health Digital Business Card Theme"
-    style="display: block; width: 100%; height: auto; border: none; border-radius: 0;"
-  >
-</div>
-
-<h3 style="color: #f8fafc; margin: 8px 0 4px 0;">2. Medical &amp; Health</h3>
-
-<p style="color: #94a3b8; font-size: 14px; margin: 0;">
-  Perfect digital business profile for doctors, clinics, pharmacies, and healthcare staff.
-</p>
-
-
+  <td width="50%" align="center" valign="top">
+    <img
+      src="screenshots/theme-2-medical-health.png"
+      alt="Medical and Health Digital Business Card Theme"
+      width="240"
+    >
+    <h3>2. Medical &amp; Health</h3>
+    <p>Perfect digital business profile for doctors, clinics, pharmacies, and healthcare staff.</p>
   </td>
-</tr>
-
-<tr>
-  <td colspan="2" style="height: 15px; border: none;"></td>
-</tr>
-
-<tr>
-  <td colspan="2" style="height: 15px; border: none;"></td>
 </tr>
 
 
