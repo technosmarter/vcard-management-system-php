@@ -39,16 +39,18 @@
 <h2>🎨 12 Premium Industry-Specific Digital Business Card Themes</h2>
 <p>Users can select from 12 professionally crafted templates designed for specific professions. Here is the showcase of our 12 themes (2 themes per row in clean layout):</p>
 
+
 <!-- 2-COLUMN CLEAN TABLE FOR 12 THEMES -->
 <table width="100%" cellspacing="0" cellpadding="15" style="border-collapse: collapse; border: none;">
   <!-- ROW 1 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="screenshots/theme-1-corporate-clean.png" alt="Corporate Clean Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/f6b2b9b9-db27-45ec-b5d0-b9f21b37a9ed" alt="Corporate Clean Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">1. Corporate Clean</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Designed for standard corporate employees, managers, and business executives[cite: 7].</p>
     </td>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      
       <img src="screenshots/theme-2-medical-health.png" alt="Medical and Health Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">2. Medical &amp; Health</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Perfect digital business profile for doctors, clinics, pharmacies, and healthcare staff[cite: 7].</p>
