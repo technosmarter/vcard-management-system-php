@@ -77,7 +77,7 @@
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Tailored for realtors, property dealers, builders, and real estate agencies[cite: 7].</p>
     </td>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="screenshots/theme-4-creative-portfolio.png" alt="Creative Portfolio Digital Business Profile Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/0c2fafcf-c0a9-4d11-9ce7-3b12d1575ec6" alt="Creative Portfolio Digital Business Profile Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">4. Creative Portfolio</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Stunning layout for UI/UX designers, graphic artists, and creative agencies[cite: 7].</p>
     </td>
@@ -87,12 +87,12 @@
   <!-- ROW 3 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="screenshots/theme-5-local-business.png" alt="Local Business Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/6bdc33d3-9429-4885-994e-2ae3b9766b46" alt="Local Business Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">5. Local Business</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Functional digital card template for retail shop owners and local service providers[cite: 7].</p>
     </td>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="screenshots/theme-6-freelancer-minimal.png" alt="Freelancer Minimal Digital vCard Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/892e0b6e-f713-417a-82e9-dde626dfe8d6" alt="Freelancer Minimal Digital vCard Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">6. Freelancer Minimal</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Clean, distraction-free virtual business card for independent creators and freelancers[cite: 7].</p>
     </td>
