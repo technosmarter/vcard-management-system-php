@@ -39,14 +39,13 @@
 <h2>🎨 12 Premium Industry-Specific Digital Business Card Themes</h2>
 <p>Users can select from 12 professionally crafted templates designed for specific professions. Here is the showcase of our 12 themes (2 themes per row in clean layout):</p>
 
-
 <!-- 2-COLUMN CLEAN TABLE FOR 12 THEMES -->
   <table width="100%" cellspacing="0" cellpadding="15" style="border-collapse: collapse; border: none;">
 <tr>
     <td width="50%" align="center" valign="top">
       <div style="height:300px; overflow-y:scroll; overflow-x:hidden; border:1px solid #334155;">
         <img
-          src="https://github.com/user-attachments/assets/f6b2b9b9-db27-45ec-b5d0-b9f21b37a9ed"
+          src="https://github.com/user-attachments/assets/968fb43f-5709-46a2-acda-27b28bacbfb9"
           alt="Corporate Clean Digital Business Card Theme"
           width="100%"
           style="display:block; max-width:220px; height:auto;"
@@ -58,7 +57,7 @@
     <td width="50%" align="center" valign="top">
       <div style="height:300px; overflow-y:scroll; overflow-x:hidden; border:1px solid #334155;">
         <img
-          src="https://github.com/user-attachments/assets/7864754f-0e0b-4ff0-a15d-627ffe879ba5"
+          src="https://github.com/user-attachments/assets/de58ab0d-8ba1-402e-8446-805afba399b1"
           alt="Medical and Health Digital Business Card Theme"
           width="100%"
           style="display:block; max-width:220px; height:auto;"
@@ -71,13 +70,13 @@
   <!-- ROW 2 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="https://github.com/user-attachments/assets/079e1f97-cdc3-4fe6-a326-6da37adea5bc" alt="Real Estate Pro Digital Business Card Theme" width="100%"
+      <img src="https://github.com/user-attachments/assets/5949b6fc-f38b-42cc-8820-1a8cd34dbab1" alt="Real Estate Pro Digital Business Card Theme" width="100%"
           style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">3. Real Estate Pro</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Tailored for realtors, property dealers, builders, and real estate agencies[cite: 7].</p>
     </td>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="https://github.com/user-attachments/assets/0c2fafcf-c0a9-4d11-9ce7-3b12d1575ec6" alt="Creative Portfolio Digital Business Profile Theme"  width="100%"
+      <img src="https://github.com/user-attachments/assets/61a2fdfa-b720-4de9-b874-5d3f15f485ef" alt="Creative Portfolio Digital Business Profile Theme"  width="100%"
           style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">4. Creative Portfolio</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Stunning layout for UI/UX designers, graphic artists, and creative agencies[cite: 7].</p>
@@ -89,7 +88,7 @@
   <!-- ROW 3 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="https://github.com/user-attachments/assets/892e0b6e-f713-417a-82e9-dde626dfe8d6 " alt="Local Business Digital Business Card Theme"  width="100%"
+      <img src="https://github.com/user-attachments/assets/0d280cd8-2826-4b1c-bbb2-c1d6fa9c9758" alt="Local Business Digital Business Card Theme"  width="100%"
           style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">5. Local Business</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Functional digital card template for retail shop owners and local service providers[cite: 7].</p>
