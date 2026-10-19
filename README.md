@@ -59,13 +59,13 @@
 <p style="color: #94a3b8; font-size: 14px; margin: 0;">
   Designed for standard corporate employees, managers, and business executives.
 </p>
-```
+
 
   </td>
 
   <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
 
-```
+
 <div style="width: 100%; max-width: 246px; height: 300px; overflow-y: auto; overflow-x: hidden; border: 3px solid #334155; border-radius: 10px; box-sizing: border-box;">
   <img
     src="screenshots/theme-2-medical-health.png"
@@ -79,7 +79,7 @@
 <p style="color: #94a3b8; font-size: 14px; margin: 0;">
   Perfect digital business profile for doctors, clinics, pharmacies, and healthcare staff.
 </p>
-```
+
 
   </td>
 </tr>
