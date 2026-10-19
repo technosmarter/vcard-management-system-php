@@ -259,4 +259,4 @@
   <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/technosmarter">https://twitter.com/technosmarter</a></li>
 </ul>
 
-<p><strong>SEO Keywords:</strong> <code>vCard Management System</code>, <code>Digital Business Card PHP Script</code>, <code>Digital Business Profile Maker</code>, <code>vCard Management System in PHP MySQL</code>, <code>Virtual Business Card SaaS Script</code>, <code>QR Code Standee Generator PHP</code>, <code>Online Visiting Card Builder</code>, <code>Techno Smarter</code>.</p>
+<p><strong>Reference :</strong> <code>vCard Management System</code>, <code>Digital Business Card PHP Script</code>, <code>Digital Business Profile Maker</code>, <code>vCard Management System in PHP MySQL</code>, <code>Virtual Business Card SaaS Script</code>, <code>QR Code Standee Generator PHP</code>, <code>Online Visiting Card Builder</code>, <code>Techno Smarter</code>.</p>
