@@ -85,10 +85,11 @@
   </tr>
   <tr><td colspan="2" style="height: 15px; border:none;"></td></tr>
 
+
   <!-- ROW 3 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="https://github.com/user-attachments/assets/6bdc33d3-9429-4885-994e-2ae3b9766b46" alt="Local Business Digital Business Card Theme"  width="100%"
+      <img src="https://github.com/user-attachments/assets/11fe9b1b-8723-42c2-84a3-855db2326c2e" alt="Local Business Digital Business Card Theme"  width="100%"
           style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">5. Local Business</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Functional digital card template for retail shop owners and local service providers[cite: 7].</p>
