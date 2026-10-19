@@ -43,25 +43,30 @@
 <!-- 2-COLUMN CLEAN TABLE FOR 12 THEMES -->
   <table width="100%" cellspacing="0" cellpadding="15" style="border-collapse: collapse; border: none;">
 <tr>
-  <td width="50%" align="center" valign="top">
-    <img
-      src="https://github.com/user-attachments/assets/f6b2b9b9-db27-45ec-b5d0-b9f21b37a9ed"
-      alt="Corporate Clean Digital Business Card Theme"
-      width="240">
-    <h3>1. Corporate Clean</h3>
-    <p>Designed for standard corporate employees, managers, and business executives.</p>
-  </td>
-
-  <td width="50%" align="center" valign="top">
-    <img
-      src="screenshots/theme-2-medical-health.png"
-      alt="Medical and Health Digital Business Card Theme"
-      width="240"
-    >
-  <h3>2. Medical &amp; Health</h3>
-    <p>Perfect digital business profile for doctors, clinics, pharmacies, and healthcare staff.</p>
-  </td>
-</tr>
+    <td width="50%" align="center" valign="top">
+      <div style="height:300px; overflow-y:scroll; overflow-x:hidden; border:1px solid #334155;">
+        <img
+          src="https://github.com/user-attachments/assets/f6b2b9b9-db27-45ec-b5d0-b9f21b37a9ed"
+          alt="Corporate Clean Digital Business Card Theme"
+          width="100%"
+          style="display:block; max-width:220px; height:auto;"
+        >
+      </div>
+      <h3>1. Corporate Clean</h3>
+      <p>Designed for standard corporate employees, managers, and business executives.</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <div style="height:300px; overflow-y:scroll; overflow-x:hidden; border:1px solid #334155;">
+        <img
+          src="https://github.com/user-attachments/assets/feca5302-a9ff-4d30-beef-4531849a592b"
+          alt="Medical and Health Digital Business Card Theme"
+          width="100%"
+          style="display:block; max-width:220px; height:auto;"
+        >
+      </div>
+      <h3>2. Medical &amp; Health</h3>
+      <p>Perfect digital business profile for doctors, clinics, pharmacies, and healthcare staff.</p> </td>
+  </tr>
 
   <!-- ROW 2 -->
   <tr>
