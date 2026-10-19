@@ -41,11 +41,6 @@
 
 
 <!-- 2-COLUMN CLEAN TABLE FOR 12 THEMES -->
-<table width="100%" cellspacing="0" cellpadding="15" style="border-collapse: collapse; border: none;">
-  <!-- ROW 1 -->
-
-
-<table width="100%" cellspacing="0" cellpadding="10">
   <table width="100%" cellspacing="0" cellpadding="15" style="border-collapse: collapse; border: none;">
   <!-- ROW 1 -->
  <tr>
@@ -64,10 +59,7 @@
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Perfect digital business profile for doctors, clinics, pharmacies, and healthcare staff[cite: 7].</p>
     </td>
   </tr>
-</table>
-</table>
 
-  
   <!-- ROW 2 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
