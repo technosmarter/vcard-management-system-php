@@ -4,7 +4,7 @@
   <p>
     <a href="https://technosmarter.com/item/vcard-management-system-in-php"><strong>📥 Download Complete Source Code</strong></a> &nbsp;|&nbsp; 
     <a href="https://technosmarter.com/item/vcard-management-system-in-php"><strong>🌐 Live Demo Preview</strong></a> &nbsp;|&nbsp; 
-    <a href="https://www.youtube.com/c/technosmarter"><strong>📺 Video Tutorial</strong></a> &nbsp;|&nbsp; 
+    <a href="https://youtu.be/oBp8M6RxRU4"><strong>📺 Video Tutorial</strong></a> &nbsp;|&nbsp; 
     <a href="https://technosmarter.com/qa"><strong>💬 Support &amp; QA</strong></a>
   </p>
 </div>
@@ -43,6 +43,8 @@
   <table width="100%" cellspacing="0" cellpadding="15" style="border-collapse: collapse; border: none;">
 <tr>
     <td width="50%" align="center" valign="top">
+         <h3>1. Corporate Clean</h3>
+      <p>Designed for standard corporate employees, managers, and business executives.</p>
       <div style="height:300px; overflow-y:scroll; overflow-x:hidden; border:1px solid #334155;">
         <img
           src="https://github.com/user-attachments/assets/968fb43f-5709-46a2-acda-27b28bacbfb9"
@@ -51,8 +53,7 @@
           style="display:block; max-width:220px; height:auto;"
         >
       </div>
-      <h3>1. Corporate Clean</h3>
-      <p>Designed for standard corporate employees, managers, and business executives.</p>
+   
     </td>
     <td width="50%" align="center" valign="top">
       <div style="height:300px; overflow-y:scroll; overflow-x:hidden; border:1px solid #334155;">
