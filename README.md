@@ -56,7 +56,7 @@
 
   <td width="50%" align="center" valign="top">
     <img
-      src="screenshots/theme-2-medical-health.png"
+      src="https://github.com/user-attachments/assets/feca5302-a9ff-4d30-beef-4531849a592b"
       alt="Medical and Health Digital Business Card Theme"
       width="240"
     >
