@@ -58,7 +58,7 @@
     <td width="50%" align="center" valign="top">
       <div style="height:300px; overflow-y:scroll; overflow-x:hidden; border:1px solid #334155;">
         <img
-          src="https://github.com/user-attachments/assets/feca5302-a9ff-4d30-beef-4531849a592b"
+          src="https://github.com/user-attachments/assets/7864754f-0e0b-4ff0-a15d-627ffe879ba5"
           alt="Medical and Health Digital Business Card Theme"
           width="100%"
           style="display:block; max-width:220px; height:auto;"
