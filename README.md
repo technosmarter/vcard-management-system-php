@@ -138,15 +138,18 @@
   </tr>
   <tr><td colspan="2" style="height: 15px; border:none;"></td></tr>
 
+
   <!-- ROW 6 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="screenshots/theme-11-education-tutor.png" alt="Education and Tutor Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/35f8a560-7f51-423e-9e2e-f814c1947dc7" alt="Education and Tutor Digital Business Card Theme" width="100%"
+          style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">11. Education &amp; Tutor</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Academic digital card design for teachers, online educators, and coaching centers[cite: 7].</p>
     </td>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="screenshots/theme-12-public-figure-vip.png" alt="Public Figure VIP Digital Business Profile Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/7138062d-6e41-4325-b5f5-4cfd66c35947" alt="Public Figure VIP Digital Business Profile Theme"  width="100%"
+          style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">12. Public Figure VIP</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Premium gold-accented layout built for authors, politicians, speakers, and celebrities[cite: 7].</p>
     </td>
