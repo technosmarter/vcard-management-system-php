@@ -36,116 +36,97 @@
 
 <hr>
 
-<h2>🎨 12 Industry-Ready Digital Business Card Themes (Scrollable Mobile Preview)</h2>
-<p>This <strong>vCard Management System in PHP</strong> comes with 12 custom-crafted templates designed for different industries and professions. Scroll inside any mobile frame below to preview the full <strong>digital business profile</strong> layout:</p>
+<h2>🎨 12 Premium Industry-Specific Digital Business Card Themes</h2>
+<p>Users can select from 12 professionally crafted templates designed for specific professions. Here is the showcase of our 12 themes (2 themes per row in clean layout):</p>
 
-<!-- 3-COLUMN SCROLLABLE MOBILE VIEW GRID FOR 12 THEMES -->
-<table width="100%" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: none;">
-  <!-- ROW 1: Themes 1 to 3 -->
+<!-- 2-COLUMN CLEAN TABLE FOR 12 THEMES -->
+<table width="100%" cellspacing="0" cellpadding="15" style="border-collapse: collapse; border: none;">
+  <!-- ROW 1 -->
   <tr>
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-1-corporate-clean.png" alt="Corporate Clean Digital Business Card Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">1. Corporate Clean</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Digital business profile for corporate executives, managers &amp; IT professionals.</p>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-1-corporate-clean.png" alt="Corporate Clean Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">1. Corporate Clean</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Designed for standard corporate employees, managers, and business executives[cite: 7].</p>
     </td>
-
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-2-medical-health.png" alt="Medical and Health Digital Business Card Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">2. Medical &amp; Health</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Virtual vCard layout built for doctors, clinics, dentists &amp; healthcare experts.</p>
-    </td>
-
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-3-real-estate-pro.png" alt="Real Estate Pro Digital Business Card Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">3. Real Estate Pro</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Digital business card for property dealers, realtors, brokers &amp; builders.</p>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-2-medical-health.png" alt="Medical and Health Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">2. Medical &amp; Health</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Perfect digital business profile for doctors, clinics, pharmacies, and healthcare staff[cite: 7].</p>
     </td>
   </tr>
+  <tr><td colspan="2" style="height: 15px; border:none;"></td></tr>
 
-  <!-- ROW 2: Themes 4 to 6 -->
+  <!-- ROW 2 -->
   <tr>
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-4-creative-portfolio.png" alt="Creative Portfolio Digital Business Profile Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">4. Creative Portfolio</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Modern portfolio vCard for UI/UX designers, artists &amp; creative studios.</p>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-3-real-estate-pro.png" alt="Real Estate Pro Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">3. Real Estate Pro</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Tailored for realtors, property dealers, builders, and real estate agencies[cite: 7].</p>
     </td>
-
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-5-local-business.png" alt="Local Business Digital Business Card Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">5. Local Business</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Digital business profile for retail shops, showrooms &amp; service vendors.</p>
-    </td>
-
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-6-freelancer-minimal.png" alt="Freelancer Minimal Digital vCard Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">6. Freelancer Minimal</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Sleek &amp; minimal digital business card for freelancers &amp; solo creators.</p>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-4-creative-portfolio.png" alt="Creative Portfolio Digital Business Profile Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">4. Creative Portfolio</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Stunning layout for UI/UX designers, graphic artists, and creative agencies[cite: 7].</p>
     </td>
   </tr>
+  <tr><td colspan="2" style="height: 15px; border:none;"></td></tr>
 
-  <!-- ROW 3: Themes 7 to 9 -->
+  <!-- ROW 3 -->
   <tr>
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-7-fitness-gym.png" alt="Fitness and Gym Digital Business Card Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">7. Fitness &amp; Gym</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Energetic vCard profile for gym owners, fitness coaches &amp; yoga trainers.</p>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-5-local-business.png" alt="Local Business Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">5. Local Business</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Functional digital card template for retail shop owners and local service providers[cite: 7].</p>
     </td>
-
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-8-legal-finance.png" alt="Legal and Finance Digital Business Profile Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">8. Legal &amp; Finance</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Authoritative digital business card for advocates, lawyers, CAs &amp; advisors.</p>
-    </td>
-
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-9-events-dj.png" alt="Events and DJ Digital Business Card Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">9. Events &amp; DJ</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Vibrant dark vCard template for DJs, event planners &amp; music artists.</p>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-6-freelancer-minimal.png" alt="Freelancer Minimal Digital vCard Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">6. Freelancer Minimal</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Clean, distraction-free virtual business card for independent creators and freelancers[cite: 7].</p>
     </td>
   </tr>
+  <tr><td colspan="2" style="height: 15px; border:none;"></td></tr>
 
-  <!-- ROW 4: Themes 10 to 12 -->
+  <!-- ROW 4 -->
   <tr>
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-10-tech-startup-dark.png" alt="Tech Startup Dark Digital Business Card Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">10. Tech Startup Dark</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Futuristic dark-mode digital business profile for founders &amp; software devs.</p>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-7-fitness-gym.png" alt="Fitness and Gym Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">7. Fitness &amp; Gym</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Bold design built for elite personal trainers, yoga instructors, and fitness centers[cite: 7].</p>
     </td>
-
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-11-education-tutor.png" alt="Education and Tutor Digital Business Card Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">11. Education &amp; Tutor</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Clean academic vCard design for teachers, tutors &amp; coaching centers.</p>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-8-legal-finance.png" alt="Legal and Finance Digital Business Profile Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">8. Legal &amp; Finance</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Professional layout for advocates, lawyers, chartered accountants (CAs), and consultants[cite: 7].</p>
     </td>
+  </tr>
+  <tr><td colspan="2" style="height: 15px; border:none;"></td></tr>
 
-    <td width="33.33%" align="center" valign="top" style="border: none; padding: 12px;">
-      <div style="width: 260px; height: 420px; overflow-y: scroll; border: 6px solid #1e293b; border-radius: 22px; background: #0f172a; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 0 auto;">
-        <img src="screenshots/theme-12-public-figure-vip.png" alt="Public Figure VIP Digital Business Profile Theme" width="100%" style="display: block; width: 100%; height: auto;">
-      </div>
-      <h4 style="margin: 10px 0 4px 0;">12. Public Figure VIP</h4>
-      <p style="font-size: 13px; color: #64748b; margin: 0;">Luxury gold-styled digital business profile for VIPs, authors &amp; leaders.</p>
+  <!-- ROW 5 -->
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-9-events-dj.png" alt="Events and DJ Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">9. Events &amp; DJ</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Energetic dark theme for event planners, wedding managers, music producers, and DJs[cite: 7].</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-10-tech-startup-dark.png" alt="Tech Startup Dark Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">10. Tech Startup Dark</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Modern dark-mode digital business profile for tech founders and software startups[cite: 7].</p>
+    </td>
+  </tr>
+  <tr><td colspan="2" style="height: 15px; border:none;"></td></tr>
+
+  <!-- ROW 6 -->
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-11-education-tutor.png" alt="Education and Tutor Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">11. Education &amp; Tutor</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Academic digital card design for teachers, online educators, and coaching centers[cite: 7].</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
+      <img src="screenshots/theme-12-public-figure-vip.png" alt="Public Figure VIP Digital Business Profile Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">12. Public Figure VIP</h3>
+      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Premium gold-accented layout built for authors, politicians, speakers, and celebrities[cite: 7].</p>
     </td>
   </tr>
 </table>
