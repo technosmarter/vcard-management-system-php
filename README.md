@@ -46,7 +46,6 @@
  <tr>
   <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
 
-```
 <div style="width: 100%; max-width: 246px; height: 300px; overflow-y: auto; overflow-x: hidden; border: 3px solid #334155; border-radius: 10px; box-sizing: border-box;">
   <img
     src="https://github.com/user-attachments/assets/f6b2b9b9-db27-45ec-b5d0-b9f21b37a9ed"
