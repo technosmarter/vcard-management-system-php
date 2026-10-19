@@ -107,12 +107,14 @@
   <!-- ROW 4 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="https://github.com/user-attachments/assets/d4868f53-0073-4531-8638-a77e69e3779b" alt="Fitness and Gym Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/d4868f53-0073-4531-8638-a77e69e3779b" alt="Fitness and Gym Digital Business Card Theme"  width="100%"
+          style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">7. Fitness &amp; Gym</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Bold design built for elite personal trainers, yoga instructors, and fitness centers[cite: 7].</p>
     </td>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="https://github.com/user-attachments/assets/ef405a4a-c183-471a-88f0-cf7f910a7e5e" alt="Legal and Finance Digital Business Profile Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/ef405a4a-c183-471a-88f0-cf7f910a7e5e" alt="Legal and Finance Digital Business Profile Theme"  width="100%"
+          style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">8. Legal &amp; Finance</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Professional layout for advocates, lawyers, chartered accountants (CAs), and consultants[cite: 7].</p>
     </td>
@@ -122,12 +124,14 @@
   <!-- ROW 5 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="https://github.com/user-attachments/assets/ee939334-927d-487e-af5c-3b270661d00b" alt="Events and DJ Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/75ed3348-9350-456f-9a3b-61332823d542" alt="Events and DJ Digital Business Card Theme"  width="100%"
+          style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">9. Events &amp; DJ</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Energetic dark theme for event planners, wedding managers, music producers, and DJs[cite: 7].</p>
     </td>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="https://github.com/user-attachments/assets/75ed3348-9350-456f-9a3b-61332823d542" alt="Tech Startup Dark Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/ee939334-927d-487e-af5c-3b270661d00b" alt="Tech Startup Dark Digital Business Card Theme"  width="100%"
+          style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">10. Tech Startup Dark</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Modern dark-mode digital business profile for tech founders and software startups[cite: 7].</p>
     </td>
