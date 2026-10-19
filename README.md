@@ -71,7 +71,8 @@
   <!-- ROW 2 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="https://github.com/user-attachments/assets/079e1f97-cdc3-4fe6-a326-6da37adea5bc" alt="Real Estate Pro Digital Business Card Theme" width="240" style="border-radius: 10px; border: 3px solid #334155; margin-bottom: 10px;">
+      <img src="https://github.com/user-attachments/assets/079e1f97-cdc3-4fe6-a326-6da37adea5bc" alt="Real Estate Pro Digital Business Card Theme" width="100%"
+          style="display:block; max-width:220px; height:auto;">
       <h3 style="color: #f8fafc; margin: 8px 0 4px 0;">3. Real Estate Pro</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Tailored for realtors, property dealers, builders, and real estate agencies[cite: 7].</p>
     </td>
