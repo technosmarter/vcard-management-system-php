@@ -4,7 +4,7 @@
   
   <p>
     <a href="https://technosmarter.com/item/vcard-management-system-in-php"><strong>📥 Download Complete Source Code</strong></a> &nbsp;|&nbsp; 
-    <a href="https://technosmarter.com/item/vcard-management-system-in-php"><strong>🌐 Live Demo Preview</strong></a> &nbsp;|&nbsp; 
+    <a href="https://demo.technosmarter.com/"><strong>🌐 Live Demo</strong></a> &nbsp;|&nbsp; 
     <a href="https://youtu.be/oBp8M6RxRU4"><strong>📺 Video Tutorial</strong></a> &nbsp;|&nbsp; 
     <a href="https://technosmarter.com/qa"><strong>💬 Support &amp; QA</strong></a>
   </p>
